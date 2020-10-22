@@ -18,9 +18,9 @@ function validarNombre(e){
     error.style.display='none';
 }
 }
-
+//segundo_cambio
 function validarCorreo(e){
-     if(correo.value == '' || correo == null){
+     if(correo.value === '' || correo == null){
         console.log('Completa el correo');
         error.style.display = 'block';
         error.innerHTML = error.innerHTML + '<li>Ingresa Un Email</li>';
