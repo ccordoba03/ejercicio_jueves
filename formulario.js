@@ -1,6 +1,9 @@
 //(funcion)(){
+
+// primer cambio
     var formulario = document.getElementById('formulario'),
-		nombre = formulario.nombre,
+        nombre = formulario.nombre,
+        id=formulario.id,
 		correo = formulario.correo,
 		sexo = formulario.sexo,
 		terminos = formulario.terminos,
