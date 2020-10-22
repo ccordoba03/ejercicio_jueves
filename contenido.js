@@ -16,3 +16,11 @@ if(name===Number){
 }
 
 }
+
+
+//tercer cambio
+
+for (let i = 0; i < name.length; index++) {
+    const element = array[index];
+    
+}
